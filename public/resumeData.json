@@ -22,12 +22,13 @@
       },   
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/tmcnally551",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
+    "skillmessage": "Spring Boot, Spring Security, Spring MVC, Spring Framework, Hibernate, Struts, CSS, HTML, PrimeFaces, JSF, CI/CD, GitLab, SALT, Gradle, Maven, AWS, ServiceNow, Elasticsearch, Splunk, Prisma, React, Node.js, Angular, Oracle, RDS, Redshift, PostgreSQL, JUnit, Selenium, Groovy, Okta OIDC, Azure OIDC",
     "education":[
       {
         "school":"The University of Kansas",
@@ -104,7 +105,7 @@
         "user":"Jacob Anderson"
       },
       {
-        "text":"Tom is a very knowledgeable and dependable senior software engineer at NTT Security. He is a great asset because he can be consistently relied on to learn new tasks and efficiently execute each task. Tom is a pleasure to work with because he has a team mentality and always puts the team's needs before his own. He is always willing to help others and improves team morale with his upbeat personality and positive nature.",
+        "text":"Tom is a very knowledgeable and dependable senior software engineer at NTT Security. He is a great asset, because he can be consistently relied on to learn new tasks and efficiently execute each task. Tom is a pleasure to work with because he has a team mentality and always puts the team's needs before his own. He is always willing to help others and improves team morale with his upbeat personality and positive nature.",
         "user":"David Waszgis"
       }
     ]
