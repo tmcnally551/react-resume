@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name":"Tom McNally",
+    "occupation":"Senior Software Engineer",
+    "description":" with a broad experience and proficiency in numerous technologies, methodologies and testing techniques.  Several of my strengths are being team oriented and able to deliver on projects in a timely manner. I have served in numerous roles within a software development team with great success.",
+    "image":"profilepic.jpg",
+    "bio":"I am an adaptive and creative Software Engineer who is passionate about software and hardware design, and the challenges that lie within. My specialty is a full stack Java Engineer, including api and system integrations. I consider myself an extremely dynamic Engineer ready to take on any challenge and learn about your technology in order to solve the problem that stands in front of me.",
+    "email": "thomasmcnally69@gmail.com",
+    "phone": "4026301797",
+    "address":{
+      "street":"2806 S 116th Ave",
+      "city":"Omaha",
+      "state":"NE",
+      "zip": "68144"
+    },
+    "resumeDownload":"Tom_McNally_Resume_1.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tom-mcnally-35a78b1b0/",
+        "className":"fa fa-linkedin"
+      },   
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"The University of Kansas",
+        "degree":"Bachelor's Degree, Molecular Biology",
+        "graduated":"May 1990",
+        "description":"I was lucky to be able to study a topic that I have always loved, and I made numerous life long friends."
+      }
+    ],
+    "work":[
+      {
+        "company":"NTT",
+        "title":"Senior Software Engineer",
+        "years":"April 2007 - Present",
+        "description":"NTT is a fast paced, dynamic work environment.  This allows me to master numerous technologies and techniques and being able to think quickly on my feet to complete tasks. For instance, I was able to transition the application from Spring MVC to PrimeFaces and JSF in 8 months."
+      },
+      {
+        "company":"First Data Corporation",
+        "title":"Software Engineer",
+        "years":"October 1992 - April 2007",
+        "description":"During my time at First Data Corporation, I worked on a jsp/servlet application that we implemented our own version of a MVC model.  We needed to do this because this was the early days of struts and other such MVC frameworks.  Also,I was the trainer/mentor for all new developers on the team."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"100%"
+      },
+      {
+        "name":"Cloud platforms",
+        "level":"70%"
+      },
+      {
+        "name":"Angular",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Kubernetes/Docker",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"95%"
+      },
+      {
+        "name":"Oracle/Postgres/Redshift/AWS RDS",
+        "level":"95%"
+      },
+      {
+        "name":"Elastic Search",
+        "level":"90%"
+      },
+      {
+        "name":"Splunk",
+        "level":"60%"
+      },
+      {
+        "name":"ServiceNow",
+        "level":"60%"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Tom has mentored me throughout my software engineering career in more ways than I can count. As a senior software developer, Tom has been exposed to a multitude of problems and has demonstrated high-level problem solving skills time and again.",
+        "user":"Jacob Anderson"
+      }
+    ]
+  }
+}
