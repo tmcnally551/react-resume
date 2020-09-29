@@ -13,7 +13,7 @@
       "state":"NE",
       "zip": "68144"
     },
-    "resumedownload":"https://tmcnally551.github.io/react-resume/TomResume.docx",
+    "resumedownload":"/react-resume/TomResume.docx",
     "social":[
       {
         "name":"linkedin",
